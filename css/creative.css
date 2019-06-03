@@ -10774,7 +10774,7 @@ header.masthead h1 {
   text-align: center;
 }
 
-.team-member img {
+.team-member .profile-pic {
   width: 225px;
   height: 225px;
   border: 7px solid #fff;
