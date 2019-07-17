@@ -10884,6 +10884,12 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #fotoivo {
   content: url("../img/team/ivo1.png");
 }
+#fotorocio:hover {
+  content: url("../img/team/rocio2.png");
+}
+#fotorocio {
+  content: url("../img/team/rocio1.png");
+}
 #logo {
   content: url("../img/LOGO-nc.png");
   height: auto;
